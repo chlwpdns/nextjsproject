@@ -23,7 +23,7 @@ const nextConfig = {
       'images.unsplash.com',
       's3.us-west-2.amazonaws.com',
     ],
-
+    path:'https://www.notion.so/images/page-cover/rijksmuseum_mignons_1660.jpg'
     format: ['image/png', 'image/webp', 'image/jpeg'],
   },
 };

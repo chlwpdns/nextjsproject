@@ -42,7 +42,7 @@ a {
 p {
   @apply text-slate-500 dark:text-slate-400;
 }
-/* 애니메이션 카드  이거 img flex가 안먹혀서 그냥 뺌*/
+/* 애니메이션 카드 */
 .card {
   @apply m-3 
   rounded-xl

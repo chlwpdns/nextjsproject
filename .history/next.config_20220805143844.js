@@ -22,8 +22,8 @@ const nextConfig = {
       'www.notion.so',
       'images.unsplash.com',
       's3.us-west-2.amazonaws.com',
+      'www.notion.so/image',
     ],
-
     format: ['image/png', 'image/webp', 'image/jpeg'],
   },
 };
